@@ -22,6 +22,9 @@
 # Visual Studio cache directory
 .vs/
 
+# User settings folder
+UserSettings
+
 # Gradle cache directory
 .gradle/
 
